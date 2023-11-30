@@ -12,8 +12,10 @@
 
 - C#
   ([Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nsterzer/foundational-c-sharp-with-microsoft))
-- ASP .NET MVC
+- ASP .NET Core MVC
 - SQL Server
+- Bootstrap
+- Entity Framework Core
 
 ## Mis Idiomas 🌎  
 | Idioma      | Competencia |
