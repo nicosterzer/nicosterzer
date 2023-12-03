@@ -1,6 +1,6 @@
 # Hola, soy Nicolás! 👋
 
-## Soy estudiante de TUP en UTN Paraná, me especializo en .NET 💻 
+## Soy estudiante de programación en UTN Paraná, me especializo en .NET 💻 
 
 ## Mis estudios 🏫
 
@@ -13,7 +13,9 @@
 - C#
   ([Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nsterzer/foundational-c-sharp-with-microsoft))
 - ASP .NET Core MVC
+- ASP .NET Web Forms
 - SQL Server
+- T-SQL
 - Bootstrap
 - Entity Framework Core
 
