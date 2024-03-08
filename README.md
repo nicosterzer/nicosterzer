@@ -1,6 +1,6 @@
 # Hola, soy Nicolás! 👋
 
-## Soy estudiante de programación en UTN Paraná, me especializo en .NET 💻 
+## Soy programador en Paraná, Entre Ríos. Me especializo en .NET 💻 
 
 ## Mis estudios 🏫
 
@@ -12,8 +12,8 @@
 
 - C#
   ([Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nsterzer/foundational-c-sharp-with-microsoft))
-- ASP .NET Core MVC
-- ASP .NET Web Forms
+- .NET Core MVC
+- .NET Web Forms
 - SQL Server
 - T-SQL
 - Bootstrap
@@ -23,7 +23,6 @@
 | Idioma      | Competencia |
 | ----------- | ----------- |
 | Inglés      | C1          |
-| Español     | Nativo      |
 <!--
 **nicosterzer/nicosterzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
