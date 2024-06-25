@@ -18,6 +18,7 @@
 - .NET Core MVC
 - .NET Web Forms
 - SQL Server
+- React JS
 - T-SQL
 - Bootstrap
 - Entity Framework Core
