@@ -2,6 +2,9 @@
 
 ## Soy programador en Paraná, Entre Ríos. Me especializo en .NET 💻 
 
+## Mi experiencia laboral ⚒️
+- Programador Backend .NET Junior, Yamana Tech (Marzo 2024 - Presente)
+
 ## Mis estudios 🏫
 
 - Tecnicatura Universitaria en Programación, UTN Paraná (En curso)
