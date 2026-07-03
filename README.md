@@ -3,7 +3,7 @@
 ## Soy programador en Paraná, Entre Ríos. Me especializo en .NET 💻 
 
 ## Mi experiencia laboral ⚒️
-- Analista Programador Junior, Accusys (Septiembre 2024 - Presente)
+- Analista Programador Junior, Accusys (Septiembre 2024 - Jun 2026)
 - Programador Backend .NET Junior, Yamana Tech (Marzo 2024 - Septiembre 2024)
 
 ## Mis estudios 🏫
