@@ -3,12 +3,12 @@
 ## Soy programador en Paraná, Entre Ríos. Me especializo en .NET 💻 
 
 ## Mi experiencia laboral ⚒️
-- Analista Programador Junior, Accusys (Septiembre 2024 - Jun 2026)
-- Programador Backend .NET Junior, Yamana Tech (Marzo 2024 - Septiembre 2024)
+- Analista Programador, Accusys (Septiembre 2024 - Jun 2026)
+- Programador Backend .NET, Yamana Tech (Marzo 2024 - Septiembre 2024)
 
 ## Mis estudios 🏫
 
-- Tecnicatura Universitaria en Programación, UTN Paraná (En curso)
+- Tecnicatura Universitaria en Programación, UTN Paraná 
 - [Tecnicatura en Reparación de PCs, Instituto Tecnológico Superior Sierra](https://www.aprender21.com/graduados/certificado.php?idz=1062) (2021)
 - Curso de Inglés orientado a Economía y Negocios Internacionales, Asociación Argentina de Cultura Inglesa (2019)
 
