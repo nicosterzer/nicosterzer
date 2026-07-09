@@ -1,9 +1,16 @@
-# 👋 ¡Hola! Soy Nicolás, desarrollador Backend .NET de Paraná, Argentina.
+# 👋 ¡Hola! Soy Nicolás Sterzer
 
-Me apasiona desarrollar aplicaciones backend escalables, mantenibles y de alta calidad utilizando **C#, ASP.NET Core, Entity Framework Core y SQL Server**.
+Soy **Backend .NET Developer** con más de **2 años de experiencia** desarrollando soluciones empresariales y bancarias utilizando **C#, ASP.NET Core, SQL Server y Entity Framework Core**.
 
-Cuento con más de **2 años de experiencia** desarrollando APIs REST, modernizando sistemas legacy y trabajando en soluciones empresariales y bancarias. Disfruto resolver problemas complejos, optimizar procesos y escribir código limpio siguiendo buenas prácticas de desarrollo.
+A lo largo de mi carrera he participado en el desarrollo de **APIs REST**, mantenimiento y modernización de sistemas legacy, optimización de bases de datos y creación de soluciones backend enfocadas en la escalabilidad, el rendimiento y la calidad del código.
 
-Actualmente continúo ampliando mis conocimientos en **Docker, arquitectura de software y tecnologías cloud**, mientras desarrollo proyectos personales que me permiten aprender nuevas herramientas y fortalecer mi portfolio.
+Me interesa trabajar en equipos donde pueda aportar valor, enfrentar nuevos desafíos técnicos y seguir creciendo profesionalmente. Actualmente continúo perfeccionándome en **arquitectura de software, Docker, buenas prácticas de desarrollo y tecnologías cloud**, mientras desarrollo proyectos personales para ampliar mi portfolio.
 
-Siempre estoy abierto a nuevos desafíos y oportunidades para seguir creciendo como desarrollador.
+📌 Tecnologías principales:
+
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* SQL Server
+* REST APIs
+* Docker
