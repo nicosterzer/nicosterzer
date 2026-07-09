@@ -1,44 +1,9 @@
-# Hola, soy Nicolás! 👋
+# 👋 ¡Hola! Soy Nicolás, desarrollador Backend .NET de Paraná, Argentina.
 
-## Soy programador en Paraná, Entre Ríos. Me especializo en .NET 💻 
+Me apasiona desarrollar aplicaciones backend escalables, mantenibles y de alta calidad utilizando **C#, ASP.NET Core, Entity Framework Core y SQL Server**.
 
-## Mi experiencia laboral ⚒️
-- Analista Programador, Accusys (Septiembre 2024 - Jun 2026)
-- Programador Backend .NET, Yamana Tech (Marzo 2024 - Septiembre 2024)
+Cuento con más de **2 años de experiencia** desarrollando APIs REST, modernizando sistemas legacy y trabajando en soluciones empresariales y bancarias. Disfruto resolver problemas complejos, optimizar procesos y escribir código limpio siguiendo buenas prácticas de desarrollo.
 
-## Mis estudios 🏫
+Actualmente continúo ampliando mis conocimientos en **Docker, arquitectura de software y tecnologías cloud**, mientras desarrollo proyectos personales que me permiten aprender nuevas herramientas y fortalecer mi portfolio.
 
-- Tecnicatura Universitaria en Programación, UTN Paraná 
-- [Tecnicatura en Reparación de PCs, Instituto Tecnológico Superior Sierra](https://www.aprender21.com/graduados/certificado.php?idz=1062) (2021)
-- Curso de Inglés orientado a Economía y Negocios Internacionales, Asociación Argentina de Cultura Inglesa (2019)
-
-## Mis skills 👨🏻‍💻
-
-- C#
-  ([Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nsterzer/foundational-c-sharp-with-microsoft))
-- .NET Core MVC
-- .NET Web Forms
-- SQL Server
-- React JS
-- T-SQL
-- Bootstrap
-- Entity Framework Core
-
-## Mis Idiomas 🌎  
-| Idioma      | Competencia |
-| ----------- | ----------- |
-| Inglés      | C1          |
-<!--
-**nicosterzer/nicosterzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Siempre estoy abierto a nuevos desafíos y oportunidades para seguir creciendo como desarrollador.
